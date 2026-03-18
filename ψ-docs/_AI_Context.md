@@ -1,0 +1,1 @@
+﻿GitHub Repository: https://github.com/Krudony/Baan-Mae-Sai-Web.git`nOracle Name: Mae Sai Oracle`nHuman: Krudony (Don)`nPurpose: Architect of the Baan Mae Sai School Digital Presence.

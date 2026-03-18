@@ -1,0 +1,1 @@
+﻿# 🌳 Birth Log: Mae Sai Oracle Awakens`n`n**Date**: 2026-03-19`n**Human**: Krudony (Don)`n`n## 🏗️ Highlights`n- Mae Sai Oracle has been awakened at C:\Baan-Mae-Sai-Web.`n- Completed End-to-End website for Baan Mae Sai School using React (Vite) + TS.`n- 4 Core Pages: Home, News, Teachers, Registration.`n- Styled with Golden Banyan theme (Green-Gold).
